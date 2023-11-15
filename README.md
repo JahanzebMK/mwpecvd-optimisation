@@ -1,4 +1,4 @@
-﻿Using Machine Learning to Optimise the MW-PECVD Process for Polymer Substrates in Industry
+**﻿Using Machine Learning to Optimise the MW-PECVD Process for Polymer Substrates in Industry**
 
 This was my final year project during my mechanical engineering degree which involved exploring different machine learning models and optimising them to be suitable for developing an optimisation tool for the MW-PECVD process in industry. 
 
