@@ -4,4 +4,6 @@ This was my final year project during my mechanical engineering degree which inv
 
 The models trained and the optimisation tool are included in the 'Code' folder. The optimisation tool should be run in two parts - Program A first and then Program B second. The data used to train these models can be found in Code/Data.
 
+App.py is a Streamlit web app version of Program B in the code folder and is the Optimisation Tool for the end user.
+
 The project report and presentation slides are also available which document the journey I took and my working throughout.
