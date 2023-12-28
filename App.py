@@ -23,7 +23,7 @@ ym_max = model_df['Young\'s Modulus (GPa)'].max()
 
 
 hardness_target = st.number_input('Enter your desired hardness (GPa)', min_value = hardness_min, max_value=hardness_max)
-ym_target = st.number_input('Enter your desired hardness (GPa)', min_value = ym_min, max_value=ym_max)
+ym_target = st.number_input("Enter your desired Young's Modulus (GPa)", min_value = ym_min, max_value=ym_max)
 
 #iterate through lookup table from top to find optimum parameters 
 for i, row in model_df.iterrows():
